@@ -14,7 +14,7 @@ import os
 # =====================================================================
 
 # @BotFather dan olingan token
-BOT_TOKEN = "8892389501:AAFe-FP4oQKRCCE9NCGbG75LejikGn9DBjw"
+BOT_TOKEN = "8892389501:AAHK59YG28gUZtRzg4Zhnyvsrpv86W-nd_w"
 
 # Adminlarning Telegram ID lari (bir nechta bo'lishi mumkin)
 # O'z ID ingizni @userinfobot dan bilib olasiz
